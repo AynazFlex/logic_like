@@ -1,0 +1,6 @@
+.app {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  padding: 24px;
+}

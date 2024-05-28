@@ -1,0 +1,22 @@
+.message {
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: -0.01em;
+    color: #39414b;
+}
+
+.good {
+    display: block;
+    margin: 24px auto 0;
+    border-radius: 12px;
+    padding: 12px;
+    text-align: center;
+    background: #5fbf77;
+    width: max-content;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: -0.01em;
+    color: #39414b;
+}

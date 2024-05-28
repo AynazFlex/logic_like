@@ -1,0 +1,35 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+    flex-grow: 1;
+}
+
+.card {
+    width: calc((100% - 2*18px) / 3);
+    border-radius: 18px;
+    box-shadow: 0 10px 13px -4px rgba(35, 35, 95, 0.19);
+    background: #fff;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 162px;
+}
+
+.image {
+    display: block;
+    height: 144px;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 100%;
+    color: #39414b;
+    padding: 12px 18px 18px 18px;
+    margin: 0;
+}
