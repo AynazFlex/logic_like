@@ -1,5 +1,5 @@
 import { FC, useEffect, useState } from "react";
-import style from "./App.module.css";
+import style from "./App.module.scss";
 import Cards from "./components/Cards/Cards";
 import Tags from "./components/Tags/Tags";
 import { fetchData } from "./api";

@@ -1,6 +1,6 @@
 import { FC } from "react";
 import LayoutContainer from "../LayoutContainer/LayoutContainer";
-import style from "./NotDataBlock.module.css";
+import style from "./NotDataBlock.module.scss";
 
 const NotData: FC = () => {
   return (

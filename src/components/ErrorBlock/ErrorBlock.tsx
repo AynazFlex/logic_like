@@ -1,6 +1,6 @@
 import { FC } from "react";
 import LayoutContainer from "../LayoutContainer/LayoutContainer";
-import style from "./ErrorBlock.module.css";
+import style from "./ErrorBlock.module.scss";
 
 interface IProps {
   message: string;

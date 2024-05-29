@@ -1,6 +1,6 @@
 import { FC } from "react";
 import LayoutContainer from "../LayoutContainer/LayoutContainer";
-import style from "./LoadBlock.module.css";
+import style from "./LoadBlock.module.scss";
 
 const LoadBlock: FC = () => {
   return (

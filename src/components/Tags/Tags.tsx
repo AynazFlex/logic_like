@@ -1,5 +1,5 @@
 import { Dispatch, FC, SetStateAction } from "react";
-import style from "./Tags.module.css";
+import style from "./Tags.module.scss";
 
 interface IProps {
   tags: string[];
